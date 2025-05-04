@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I'm a 23-year-old guy who is currently studying software engineering with a focus on web development. I'm also interested in network engineering and system architecture/DevOps.
+I'm a 24-year-old guy who is currently studying software engineering with a focus on web development. I'm also interested in network engineering and system architecture/DevOps.
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [juan8volpi@gmail.com](mailto:juan8volpi@gmail.com)
-* 🧠  I'm learning Python 3.0 and JavaScript
-* ⚡  I'm currently chasing an opportunity to make one more exchange program and look forward to finishing my studies in Ireland.
+* 🧠  I'm learning Python 3.0 and JavaScript.
 
 ### Skills
 
